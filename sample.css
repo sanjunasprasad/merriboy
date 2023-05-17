@@ -1,0 +1,202 @@
+
+body
+{
+    margin:0;
+}
+.header
+{
+   background-color: #e65e7b;
+   width: 100%;
+   height: 395px;
+   display:flex;
+}
+.left-section
+{
+    position: relative;
+    width: 40%;
+}
+.logo-image
+{
+   width: 100px;
+   margin-left: 200px;
+}
+.manju-image
+{
+    margin-left: 270px;
+    width: 315px;
+    margin-top: -50px;
+}
+.cherry
+{        
+    position: absolute;
+    margin-top: -398px;
+}
+.straw
+{
+   
+    width: 241px;
+    height: 225px;
+    margin-top: -89px;
+    margin-left: -26px;
+}
+.rightsection
+{
+    width: 60%;
+    position:relative;
+}
+.btnbanner
+{
+  cursor: pointer;  
+  padding-left: 62px;
+}
+#mango 
+{
+  width: 350px;
+  height: 177px;
+  position:absolute;
+  margin-left: -70px;
+  margin-top: 27px
+}
+#kiwi
+{ 
+    position:absolute;
+    margin-top: -198px;
+    margin-left: 462px;
+}
+#milk
+{
+    height: 246px;
+    width: 155px;
+    position:absolute;
+    margin-left: 470px;
+    margin-top: 68px;
+}
+.right-labels-container
+{
+    padding-top: 40px;
+    display: flex;
+}
+.right-labels a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding-left: 50px;
+    font-family:sans-serif;
+    font-weight: lighter;
+
+}
+#text
+{
+    font-style: fantasy;
+   font-family: monospace;
+    font-weight: lighter;
+    font-size: 35px;
+    color: white;
+    padding-left: 60px;
+}
+
+.main-body
+{
+    background-color:white;
+    margin:0; 
+    height: 650px;
+}
+.images
+{
+    width: 1050px;
+    height: 500px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section 
+{
+    background-color:rgb(236,221,235);
+    margin:0; 
+    height: 700px;
+}
+#img5
+{
+    width: 400px;
+    height: 400px;
+    margin-left: 340px;
+}
+#img4
+{
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+}
+.para
+{
+    font-size: 20px;
+    font-style: italic;
+    font-family: initial;
+    text-align: center;
+}
+.footer
+{
+    
+    margin:0;
+    height:705px;
+    display:flex;
+    background-color: rgb(236,221,235);
+}
+.footerbg
+{
+    height: 700px;
+    width: 1900px;
+    position: absolute;
+
+}
+.end1
+{
+ margin-left: 250px;
+ margin-top: 390px;
+ color:white;
+ text-align: left;
+ font-size: 20px;
+ font-weight: lighter;
+
+}
+.end2
+{
+    color:white;
+ text-align: left;
+ font-size: 20px;
+ font-weight: lighter;
+ margin-left: 100px;
+ margin-top: 390px;
+}
+.end3
+{
+ color:white;
+ text-align: left;
+ font-size: 20px;
+ font-weight: lighter;
+ margin-left: 90px;
+ margin-top: 390px;
+}
+.input
+{
+    width: 238px;
+    height: 32px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 14px;
+}
+.submit
+{
+    width: 112px;
+    height: 34px;
+    border-radius: 5px;
+    border: none;
+    background-color: hotpink;
+    margin-left: -22px;
+    color: white;
+}
+.footer ul
+{
+    position: relative;
+}
